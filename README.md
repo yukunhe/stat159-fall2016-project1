@@ -6,6 +6,7 @@ Yukun He
 
 ### File Structure
 
+~~~
 stat159-fall2016-project1/
     .gitignore
     README.md
@@ -24,6 +25,7 @@ stat159-fall2016-project1/
         markdown-logo.png
         pandoc-logo.png
         stat159-logo.png
+~~~
 
 ### How to reproduce this project
 
