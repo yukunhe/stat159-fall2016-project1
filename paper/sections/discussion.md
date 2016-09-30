@@ -27,13 +27,7 @@ to create images and used
 [description](website links)
 ~~~
 
-to create links of websites. To generate code blocks, I used
-
-~~~
- ~~~
- code
- ~~~
-~~~
+to create links of websites. To generate code blocks, I just put ~~~ before and after the code.
 
 All of these functions in Markdown make my paper more explicit and interpretable for readers after it is converted to HTML file. Markdown can do so many other things. The things listed above are what I did when I wrote this paper and they are only a small part of Markdown’s functions. One of the advantages of Markdown is that its syntax is relatively easy to learn and very interpretable for users. When I wrote this paper in Markdown, I felt very comfortable with all the syntax. The second advantage is that Markdown is fast. When I wrote this paper in Markdown, the simple formatting saved me a lot of time and speeded up my workflow. The third advantage is that Markdown files can be easily converted into HTML files by using Pandoc, which I’ll introduce in the next part. HTML has relatively complex syntax that can be sometimes cumbersome but Markdown makes the process easier. When users convert Markdown files into HTML files, all the images, code blocks, links and so on will be perfectly translated. Markdown is also very flexible, which means it can be easily converted to many other formats as needed. Moreover, users can use Markdown in any device, software, or web application that supports plain text, which makes Markdown portable and popular. 
 
